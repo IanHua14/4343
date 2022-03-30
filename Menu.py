@@ -3,7 +3,8 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 
 import week0.Animation
-from week1.Lists import tester, tester2, fibtester
+from week1.fibonacci import fibtester
+from week1.Lists import tester, tester2
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
@@ -20,6 +21,7 @@ math_sub_menu = [
     ["Swap", "week0/Swap.py"],
     ["Matrix", "week0/Matrix.py"],
     ["Tree", "week0/Tree.py"],
+    ["Fibonacci", fibtester],
     ["Palindrome", "week2/Palindrome.py"],
 ]
 random_sub_menu = [
@@ -30,7 +32,6 @@ random_sub_menu = [
 Lists_sub_menu = [
     ["Tester", tester],
     ["Factorial", tester2],
-    ["Fibonacci", fibtester],
     ["Oop Factorial", "week2/Oop.py"],
     ["Oop Fibonacci", "week2/Oop2.py"],
 ]
