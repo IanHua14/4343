@@ -1,26 +1,26 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-import time
-from Animation import *
-from Lists import tester, tester2, fibtester
+
+import week0.Animation
+from week1.Lists import tester, tester2, fibtester
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 main_menu = [
     
-    ["Animation",animation],
+    ["Animation", week0.Animation.animation]
     
     ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 math_sub_menu = [
-    ["Swap", "Swap.py"],
-    ["Matrix", "Matrix.py"],
-    ["Tree", "Tree.py"],
-    ["Palindrome", "Palindrome.py"],
+    ["Swap", "week0/Swap.py"],
+    ["Matrix", "week0/Matrix.py"],
+    ["Tree", "week0/Tree.py"],
+    ["Palindrome", "week2/Palindrome.py"],
 ]
 random_sub_menu = [
     ["Random1", None],
@@ -31,8 +31,8 @@ Lists_sub_menu = [
     ["Tester", tester],
     ["Factorial", tester2],
     ["Fibonacci", fibtester],
-    ["Oop Factorial", "Oop.py"],
-    ["Oop Fibonacci", "Oop2.py"],
+    ["Oop Factorial", "week2/Oop.py"],
+    ["Oop Fibonacci", "week2/Oop2.py"],
 ]
 
 # Menu banner is typically defined by menu owner

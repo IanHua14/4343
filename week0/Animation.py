@@ -25,8 +25,7 @@ def animation():
     for position in range(start, distance, step):
         AP(position)  
         time.sleep(.1)
-if __name__ == "__main":
-  animation()
+# if __name__ == "__main__":
+#   AP()
+#   animation()
 
-if __name__ == "__main":
-  animation()
