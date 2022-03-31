@@ -5,3 +5,8 @@ The first assignment was creating a Repl that is connected to your github and we
 
 <img src="https://user-images.githubusercontent.com/89225478/161152129-c0d74953-cd73-4c37-a655-c4912a37dafb.png" width="150" height="150">
 <img src="https://user-images.githubusercontent.com/89225478/161152547-fa3a23c6-5c46-49db-8827-6db6d51cbc3e.png" width="200" height="200">
+
+## Tree challenge
+Then we also had to make a christmas tree
+
+<img src="https://user-images.githubusercontent.com/89225478/161152998-f796bffb-aff6-4825-8fc0-1cc5e4a29427.png" width="200" height="200">
