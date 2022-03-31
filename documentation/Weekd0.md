@@ -4,3 +4,4 @@
 The first assignment was creating a Repl that is connected to your github and we had to make a functioning menu in Repl
 
 <img src="https://user-images.githubusercontent.com/89225478/161152129-c0d74953-cd73-4c37-a655-c4912a37dafb.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/89225478/161152547-fa3a23c6-5c46-49db-8827-6db6d51cbc3e.png" width="150" height="150">
