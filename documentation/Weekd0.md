@@ -11,3 +11,9 @@ Then we also had to make a christmas tree by not just printing but by building a
 
 <img src="https://user-images.githubusercontent.com/89225478/161152998-f796bffb-aff6-4825-8fc0-1cc5e4a29427.png" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/89225478/161153706-8c04ee25-b07b-460f-aba7-c65595b40506.png" width="200" height="200">
+
+## Animation
+We also made an animation that used code that defines range so it would be able to move certain amount of times upon our request and also allows the code to be shorter. The original code was a ship but mine is a car
+
+<img src="https://user-images.githubusercontent.com/89225478/161154465-63e2a5c8-1822-4b62-baa1-a950808cc3c2.png" width"200" heigh="200">
+
