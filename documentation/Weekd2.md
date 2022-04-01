@@ -6,3 +6,7 @@ Google definition of factorial: A factorial is a function that multiplies a numb
 
 <img src="https://user-images.githubusercontent.com/89225478/161346763-ce2642c4-5837-46ee-af6e-cd3cf9641b67.png" width="200" height="150">
 
+## math function 
+We had to choose from the multiple math functions to import into our repl project
+
+<img src="https://user-images.githubusercontent.com/89225478/161347987-eee305ea-683d-40ca-8708-d25b5dab4bab.png" width="200" height="150">
