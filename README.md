@@ -1,5 +1,7 @@
 # Ian H - TRI 3 CSP 
 
+![](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif)
+
 ### Tangibles
 
 | Role  | Commits  |  Runtime |
