@@ -1,3 +1,5 @@
+{% include nav.html %} 
+
 # Week 2 documentation
 
 ## Factorial
