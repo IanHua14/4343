@@ -17,4 +17,4 @@ we also have to work on our create task that can check all the boxes on the coll
 
 <img src="https://user-images.githubusercontent.com/89225478/164327948-50ed3ca3-afa2-4cf5-b8a8-bd0056acacb4.png" width="200" height="200">
 
-<img src="https://user-images.githubusercontent.com/89225478/164328143-387a768d-5b50-4689-9dc1-9574dbfcd271.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/89225478/164328143-387a768d-5b50-4689-9dc1-9574dbfcd271.png" width="300" height="200">
