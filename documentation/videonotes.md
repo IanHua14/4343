@@ -1,6 +1,36 @@
 AAP-3 video notes
 
 * Breaking programs down to smaller pieces, programs, and problems in order to solve a bigger problem
+* Using example of turtle graphics via. Python
+* Seen in process
+  * Functions
+  * Methods
+  * Parameters
+  * Abstraction
+  * A bit of simulation
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 *
 *
 *
