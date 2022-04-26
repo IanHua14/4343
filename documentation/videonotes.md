@@ -3,7 +3,7 @@
 * Breaking programs down to smaller pieces, programs, and problems in order to solve a bigger problem
 * Using example of turtle graphics via. Python
 * Seen in process
-      * Functions
+  * Functions
   * Methods
   * Parameters
   * Abstraction
@@ -28,11 +28,13 @@
 * The code essentially made a routine that runs a simulation that is shown on screen
 * The media computation turtle program library gives you a list of all the turtles that are shown inside the border
 * Technically creating a world inside a world in order to create multiple amounts of turtles that are shown being formed and doing its thing
-* 
-*
-*
-*
-*
+* The code for one turtles surpasses the parameter with all of the turtles
+* In order to calculate the distance between the turtles and make the not collide, calculate the differences between the x and y coordinates
+* Euclidean - difference / distance between two points
+* Allowing the turtle to move randomly but not hit each other
+* “Artifact” - allowed when turtle does touch each other one will be hidden
+* Lines of “code” used
+  * # new method
 *
 *
 *
