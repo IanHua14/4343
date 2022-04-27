@@ -6,4 +6,5 @@ The images are in a list in order for it too meet the collegeboard requirements
 <img src="https://user-images.githubusercontent.com/89225478/165634834-89285b71-f3c8-4f2b-ab51-cabd161df2fe.png" width="550" height="200">
 
 Contents of the tabs
-<img src="https://user-images.githubusercontent.com/89225478/165637250-d124474b-79a6-45f4-b78b-bc19f0f0f7c5.png" width="550" height="200">
+
+<img src="https://user-images.githubusercontent.com/89225478/165637250-d124474b-79a6-45f4-b78b-bc19f0f0f7c5.png" width="300" height="150">
