@@ -8,3 +8,6 @@ The images are in a list in order for it too meet the collegeboard requirements
 Contents of the tabs
 
 <img src="https://user-images.githubusercontent.com/89225478/165637250-d124474b-79a6-45f4-b78b-bc19f0f0f7c5.png" width="400" height="400">
+
+Example of lists usage in the parrot tab
+<img src="https://user-images.githubusercontent.com/89225478/165637545-02a101a5-9cb7-40dd-a54a-25d498e83fa9.png" width="400" height="400">
