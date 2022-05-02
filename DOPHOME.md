@@ -7,3 +7,4 @@
 - [Week 2](documentation/Weekd2)
 - [Week 4](documentation/Weekd4)
 - [Video Notes](documentation/videonotes)
+- [Quiz scores](![image](documentation/testscores)
